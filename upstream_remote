@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+to set up a connection pointing from local clone of fork towards parent repository, from which the fork is replicated, so the two can be synced up
